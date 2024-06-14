@@ -1,0 +1,1 @@
+It is an application where random Band Names will be generated with the help of node.js, express.js, ejs. If you want to go back also there is a button for that.
